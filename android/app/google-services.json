@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567386244662",
+    "project_id": "todolist-67aaf",
+    "storage_bucket": "todolist-67aaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567386244662:android:624de7720fab7d0eb23a97",
+        "android_client_info": {
+          "package_name": "com.mumuappli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567386244662-8gu582tjagcn4k4n1c25hpqikl064smj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4L7DySHGGwtdLpDuyJDsNdZ6nBl7_GjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567386244662-8gu582tjagcn4k4n1c25hpqikl064smj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
