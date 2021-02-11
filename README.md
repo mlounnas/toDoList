@@ -1,4 +1,4 @@
-Autoformation : toDoList, une application Android permettant de noter les tâches du quotidien réalisée en typeScript avec react-native.
+Autoformation : toDoList, une application Android permettant de noter les tâches du quotidien réalisées en typeScript avec react-native.
 
 Utilisation de react-native cli, avec firebase firestore et firebase authentification
 
